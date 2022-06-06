@@ -33,5 +33,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ## Contributors
-[clicklink] (https://github.com/coding-boot-camp/fantastic-umbrella)
-[clicklink] (https://github.com/mralegria31/E-commerce-Back-End)
+[Link text] (https://github.com/coding-boot-camp/fantastic-umbrella)
+
+[Link text] (https://github.com/mralegria31/E-commerce-Back-End)
